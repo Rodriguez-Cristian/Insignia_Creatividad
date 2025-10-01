@@ -1,0 +1,16 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Assertion",
+    "id": "https://Rodriguez-Cristian.github.io/Insignia_Creatividad/insignias/ganador-cristian.json",
+    "recipient": {
+      "type": "email",
+      "hashed": false,
+      "identity": "mailto:coliitohr@gmail.com"
+    },
+    "issuedOn": "2025-10-01T12:00:00Z",
+    "badge": "https://Rodriguez-Cristian.github.io/Insignia_Creatividad/insignias/ganador.json",
+    "verification": {
+      "type": "hosted"
+    }
+  }
+  
