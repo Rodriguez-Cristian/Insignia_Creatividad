@@ -1,0 +1,13 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "BadgeClass",
+    "id": "https://Rodriguez-Cristian.github.io/Insignia_Creatividad/insignias/ganador.json",
+    "name": "Persona creativa e innovadora 2025",
+    "description": "Otorgado a Cristian Rodriguez por su creatividad y resolución de problemas",
+    "image": "https://Rodriguez-Cristian.github.io/Insignia_Creatividad/insignias/creativo.png",
+    "criteria": {
+      "narrative": "Encontrar soluciones ágiles a problemas comunes"
+    },
+    "issuer": "https://Rodriguez-Cristian.github.io/Insignia_Creatividad/insignias/emisor.json"
+  }
+  
