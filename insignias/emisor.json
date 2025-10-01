@@ -1,0 +1,8 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Issuer",
+    "id": "https://Rodriguez-Cristian.github.io/Insignia_Creatividad/insignias/emisor.json",
+    "name": "Creatividad",
+    "url": "https://Rodriguez-Cristian.github.io/Insignia_Creatividad",
+    "email": "coliitohr@gmail.com"
+  }
